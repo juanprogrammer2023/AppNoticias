@@ -12,9 +12,24 @@
 <ul>
     <li><strong>Node.js</strong> con <strong>Express</strong> para la API.</li>
     <li><strong>MySQL</strong> para la base de datos.</li>
+    <img src="https://github.com/user-attachments/assets/9464f7e6-17f5-48ca-8e4a-7215ae78574c" alt="basededatos">
     <li><strong>CORS</strong> y <strong>body-parser</strong> para manejar solicitudes HTTP.</li>
     <li><strong>Dotenv</strong> para gestionar variables de entorno.</li>
 </ul>
+<table>
+  <tr>
+    <td><strong>LoginActivity</strong></td>
+    <td><strong>RegisterActivity</strong></td>
+    <td><strong>newPostActivity</strong></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/27d00b59-d73d-443e-8dce-20a1570eedc2" alt="LoginActivity"></td>
+    <td><img src="https://github.com/user-attachments/assets/426989b0-f72b-42a8-b5ef-c32d29ccc071" alt="RegisterActivity"></td>
+    <td><img src="https://github.com/user-attachments/assets/de108e43-fa42-418a-b25f-8374f52f9e81" alt="newPostActivity"></td>
+  </tr>
+</table>
+
+
 
 <h3><strong>Frontend:</strong></h3>
 <ul>
@@ -22,6 +37,21 @@
     <li><strong>Retrofit</strong> para la comunicación con la API.</li>
     <li><strong>ViewPager2</strong> y <strong>TabLayout</strong> para la navegación fluida entre las categorías.</li>
 </ul>
+
+<table>
+  <tr>
+    <td><strong>TabLayouySports</strong></td>
+    <td><strong>TabLeyoutNotices</strong></td>
+    <td><strong>TabLayoutTecnology</strong></td>
+    <td><strong>TabLayoutAliments</strong></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/ba8d4b2e-0395-4e0b-a58f-aa83452f4b44" alt="TabLayouy_sports"></td>
+    <td><img src="https://github.com/user-attachments/assets/7784de82-4c33-4791-b024-4aa9a20710e7" alt="TabLayoutNotices"></td>
+    <td><img src="https://github.com/user-attachments/assets/e0e94286-219f-4014-a3fb-88f235d5c2e2" alt="TabLayoutTecnology"></td>
+    <td><img src="https://github.com/user-attachments/assets/72c7fddc-c322-4ddf-af61-84edc74bede6" alt="TabLayoutAliments"></td>
+  </tr>
+</table>
 
 <hr>
 
@@ -123,5 +153,9 @@ frontend/
 
 <hr>
 
+
+
+
+<hr>
 
 
