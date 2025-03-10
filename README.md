@@ -71,7 +71,7 @@ frontend/
 <ol>
     <li>Clona el repositorio:
         <pre>git clone https://github.com/juanprogrammer2023/AppNoticias.git</pre>
-        <pre>cd backend</pre>
+        <pre>cd project-root</pre>
     </li>
     <li>Instala las dependencias:
         <pre>npm install</pre>
@@ -92,7 +92,7 @@ frontend/
 <ol>
     <li>Abre el proyecto en <strong>Android Studio</strong>.</li>
     <li>Cambia la IP de tu servidor en <strong>RetrofitClient.java</strong> para que apunte a tu servidor local:
-        <pre>private static final String BASE_URL = "http://TU_IP_LOCAL:5000/";</pre>
+        <pre>private static final String BASE_URL = "http://TU_IP_LOCAL:3000/";</pre>
     </li>
     <li>Compila y ejecuta la aplicación en un emulador o dispositivo físico.</li>
 </ol>
