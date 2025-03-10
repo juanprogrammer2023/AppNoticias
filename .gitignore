@@ -1,8 +1,0 @@
-# Node.js dependencies
-node_modules/
-
-# macOS system files
-.DS_Store
-
-# Environment variables
-.env
