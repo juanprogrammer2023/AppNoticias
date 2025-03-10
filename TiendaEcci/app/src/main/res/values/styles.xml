@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Estilo para botones personalizados -->
+    <style name="ButtonStyle.TiendaEcci" parent="Widget.MaterialComponents.Button">
+        <item name="android:backgroundTint">@color/purple_500</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="cornerRadius">8dp</item>
+    </style>
+
+    <!-- Estilo personalizado para TextInputLayout -->
+    <style name="CustomTextInputLayout" parent="Widget.MaterialComponents.TextInputLayout.OutlinedBox">
+        <item name="boxStrokeColor">#FFFFFF</item>
+        <item name="boxStrokeWidth">1dp</item>
+        <item name="boxStrokeWidthFocused">2dp</item>
+        <item name="hintTextColor">@color/white</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="boxBackgroundColor">#80FFFFFF</item>
+    </style>
+
+    <!-- Estilo para imágenes circulares -->
+    <style name="CircleImageView" parent="">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">50%</item>
+    </style>
+
+</resources>
