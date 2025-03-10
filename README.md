@@ -70,7 +70,7 @@ frontend/
 <h3>🖥️ Backend</h3>
 <ol>
     <li>Clona el repositorio:
-        <pre>git clone https://github.com/tu-usuario/tu-repo.git</pre>
+        <pre>git clone https://github.com/juanprogrammer2023/AppNoticias.git</pre>
         <pre>cd backend</pre>
     </li>
     <li>Instala las dependencias:
